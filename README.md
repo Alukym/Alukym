@@ -14,4 +14,4 @@ Here are some ideas to get you started:
 -->
 
 - 🌱 I’m currently learning C++ and reversing  
-![Alukym's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true)
+![Alukym's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alukym&theme=default&show_icons=true)
