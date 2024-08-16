@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🌱 I’m currently learning C++ and reversing  
+Yet another Windows/Android developer ^_^  
 ![Alukym's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alukym&theme=default&show_icons=true)
 
 Contact me at [Discord](https://discord.com/users/960556545303793714)  
